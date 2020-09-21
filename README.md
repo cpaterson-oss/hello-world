@@ -5,4 +5,6 @@ I am using this to try out GitHub by following the GitHub newbies guide. What fu
 Making some changes
 
 
-Bonjour
+1er GitHub repo
+
+J'utilise ce projet pour esssayer GitHub.
